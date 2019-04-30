@@ -19,7 +19,7 @@ Specifications:
 - The supported arithmetic operators and the permitted natural language aliases for these commands are as follows:
 
 		Operator:					Permitted Aliases:
-		Add (+)						add, plus
+		Add (+)					add, plus
 		Subtract (-)					subtract, minus, less
 		Multiply (*)					multiplied-by, times
 		Divide (/)					divided-by, over
