@@ -20,8 +20,8 @@ Specifications:
 
 		Operator:					Permitted Aliases:
 		Add (+)						add, plus
-		Subtract (-)				subtract, minus, less
-		Multiply (*)				multiplied-by, times
+		Subtract (-)					subtract, minus, less
+		Multiply (*)					multiplied-by, times
 		Divide (/)					divided-by, over
 
 Similar to the accepted input values, aliases are case-insensitive too. Both 'add' and 'ADD' are equallz valid. 
