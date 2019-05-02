@@ -1,4 +1,4 @@
-# NaturalLanguageCalculator
+# Natural Language Calculator
 Text-based console application performing simple natural language calculations.
 
 For instance, if a user enters the text 'two plus three', the program would output the value '5'.
